@@ -1,18 +1,18 @@
 <h1>@br3mx/randomid-generator</h1>
 
-<strong>Instalation:</strong>
-<b>
-NPM: npm install @br3mx/randomid-generator
-<b>
-YARN: yarn add @br3mx/randomid-generator
-<b>
+<h3>Instalation:</h3>
+<br>
+<strong>NPM:</strong> npm install @br3mx/randomid-generator
+<br>
+<strong>YARN:</strong> yarn add @br3mx/randomid-generator
+<br>
 
-Usage :
-<b>
-const randomId = require('@br3mx/randomid-generator');
-<b>
-EXAMPLE:
-<b>
+<h3>Usage :<h3>
+<br>
+<i>const randomId = require('@br3mx/randomid-generator');</i>
+<br>
+<h3>EXAMPLE:<h3>
+<br>
 randomId(10) ///// FRD3vJyOzd
-<b>
+<br>
 randomId(5) ////// kKhQVO
