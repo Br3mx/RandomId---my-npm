@@ -6,7 +6,6 @@
 <br>
 <strong>YARN:</strong> yarn add @br3mx/randomid-generator
 <br>
-
 <h3>Usage :<h3>
 <br>
 <i>const randomId = require('@br3mx/randomid-generator');</i>
